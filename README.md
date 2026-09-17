@@ -6,17 +6,17 @@ No copying links.
 No pasting URLs.  
 No external downloader websites.
 
-**Just find a video and click the small ⬇️ button directly on RedGIFs.**
+**Just find a video and click the small ⬇️ button located at the top right corner of every videos directly on RedGIFs.**
 
 ## 📥 [DOWNLOAD THE EXTENSION](https://github.com/s8utility/RedGifs-Instant-Downloader/raw/refs/heads/main/s8utility-redgifs-instant-downloader-chrome-extension.zip)
 
-🪶 **~16 KB** · 🌐 **Chrome & Edge** · 🚫 **No Ads** · 🕵️ **No Trackers**
+🪶 **~16 KB** · 🌐 **Chrome & Edge Compatible** · 🚫 **No Ads** · 🕵️ **No Trackers**
 
 ---
 
 ## 👀 How it looks
 
-Once installed, a small download icon appears directly on your videos:
+Once installed, a small download icon appears directly on your videos in the top right corner:
 
 ![RedGIFs downloader explore page](https://raw.githubusercontent.com/s8utility/RedGifs-Instant-Downloader/refs/heads/main/cap1.png)
 
