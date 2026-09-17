@@ -1,6 +1,6 @@
 # ⬇️ RedGIFs Instant Downloader
 
-### Download videos directly from RedGIFs — in one click.
+### Download .MP4 videos directly from RedGIFs — in one click.
 
 No copying links.  
 No pasting URLs.  
