@@ -38,7 +38,7 @@ Normally:
 
 With this extension:
 
-### `Find video → ⬇️ Download`
+### `Find video → ⬇️ Download Video .MP4`
 
 That's it. **You never have to leave RedGIFs.**
 
